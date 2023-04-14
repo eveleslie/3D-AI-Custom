@@ -35,7 +35,7 @@ const Home = () =>{
                         className='flex flex-col gap-5'
                         
                         >
-                            <p className='max-w-md font-normal text-gray-600'>
+                            <p className='max-w-md font-normal text-gray-600 text-base'>
                                 利用AI玩转换装~
                                 <strong>生成你自己的服装吧！</strong>
 
